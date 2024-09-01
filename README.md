@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Software Engineer**
  
- 🌱 I’m currently learning **Html,Css,Javascrpit,Reactj.s,SQL**
+ 🌱 I’m currently learning **Html,Css,Javascrpit,React,SQL**
 
 💬 Ask me about **HTML,CSS,JavaScript, ReactJs,SQL... (https://github.com/Siddharth7566)**
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,,html,css,vscode,github,git,r" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,,Html,Css,vscode,github,," />
+    <img src="https://skillicons.dev/icons?i=Python,Javascript,SQL/PLUS" /><br>
 </div>
 
 <br/>
